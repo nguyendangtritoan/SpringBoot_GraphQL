@@ -1,0 +1,4 @@
+#All available
+type Query {
+    bankAccount(id: ID): BankAccount
+}
