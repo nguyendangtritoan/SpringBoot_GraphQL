@@ -11,8 +11,8 @@ Aiming to learn GraphQL over SpringBoot base service.
 * Java JDK 11.0.10
 * SpringBoot
 * Maven
-* Lombok
-* GraphQL Spring starter v.11
+* Lombok ([@Builder](https://projectlombok.org/features/Builder), [@Data](https://projectlombok.org/features/Data))
+* [GraphQL Spring starter v.11](https://github.com/graphql-java-kickstart/graphql-spring-boot) (GraphQL_playground)
 
 ## `Usage`
 
