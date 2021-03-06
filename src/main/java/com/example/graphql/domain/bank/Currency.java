@@ -1,4 +1,4 @@
-package com.example.graphql.resolver;
+package com.example.graphql.domain.bank;
 
 public enum Currency {
     CHF,
